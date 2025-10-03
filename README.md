@@ -46,7 +46,7 @@ This project analyzes the **Red Wine Quality dataset** from the UCI Machine Lear
   
 - ![Alcohol vs Quality](https://github.com/DataKeshav/EDA-Red-Wine-Data/blob/970fb57313cac89a261795a724190b3a21a9f199/Alcohol%20vs%20Quality.png)  
 - ![Correlation Heatmap](https://github.com/DataKeshav/EDA-Red-Wine-Data/blob/cd6a912332ccc77995c647b12a65fa1e5a8324d0/Correlation%20Heatmap.png)  
-- ![PCA Scatter Plot](images/pca_scatter.png)
+- ![PCA Scatter Plot](https://github.com/DataKeshav/EDA-Red-Wine-Data/blob/44a53903585af5d427eed82a58c794d9db5a34f6/PCA-%20WIne%20Quality.png)
 
 ---
 
